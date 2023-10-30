@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="EmployeeRegister.MainPage">
+
+    <StackLayout>
+        <Label Text="Registro de empelados" HorizontalOptions="Center" VerticalOptions="CenterAndExpand"/>
+        <Entry x:Name="txtIdEmployee" IsVisible="False"/>
+        <Entry x:Name="txtName" Placeholder="Nombre"/>
+        <Entry x:Name="txtLastName" Placeholder="Apellido Paterno"/>
+        <Entry x:Name="txtMotherLastName" Placeholder="Apellido Materno"/>
+        <!--<Entry x:Name="txtAge" Placeholder="Edad"/>
+        <Entry x:Name="txtTelephone" Placeholder="Telefono"/>-->
+
+        <Button x:Name="btnRegister" Text="Registrar Empleado" Clicked="btnRegister_Clicked"/>
+        <Button x:Name="btnActualizar" Text="Actualizar" Clicked="btnActualizar_Clicked" IsVisible="False"/>
+        <Button x:Name="btnEliminar" Text="Eliminar" Clicked="btnEliminar_Clicked" IsVisible="False"/>
+
+        <ListView x:Name="lstEmployee" ItemSelected="lstEmployee_ItemSelected">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <Grid>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="Auto"/>
+                                <RowDefinition Height="Auto"/>
+                            </Grid.RowDefinitions>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                                <!--<ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>-->
+                            </Grid.ColumnDefinitions>
+                            <Label Text="{Binding IdEmpl}" Grid.Row="0" Grid.Column="0" TextColor="Green"/>
+                            <Label Text="{Binding Name}" Grid.Row="0" Grid.Column="1" TextColor="Gray"/>
+                            <Label Text="{Binding LastName}" Grid.Row="0" Grid.Column="2" TextColor="Gray"/>
+                            <Label Text="{Binding MotherLastName}" Grid.Row="0" Grid.Column="3" TextColor="Gray"/>
+                            <!--<Label Text="{Binding Age}" Grid.Row="0" Grid.Column="4" TextColor="Orange"/>
+                            <Label Text="{Binding Telephone}" Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="3" TextColor="Green"/>-->
+                        </Grid>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+
+</ContentPage>

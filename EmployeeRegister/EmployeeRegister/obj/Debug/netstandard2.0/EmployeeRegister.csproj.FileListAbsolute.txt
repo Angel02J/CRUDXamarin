@@ -1,0 +1,15 @@
+C:\Users\Propietario\OneDrive\Escritorio\Empleados\EmployeeRegister\EmployeeRegister\EmployeeRegister\bin\Debug\netstandard2.0\EmployeeRegister.deps.json
+C:\Users\Propietario\OneDrive\Escritorio\Empleados\EmployeeRegister\EmployeeRegister\EmployeeRegister\bin\Debug\netstandard2.0\EmployeeRegister.dll
+C:\Users\Propietario\OneDrive\Escritorio\Empleados\EmployeeRegister\EmployeeRegister\EmployeeRegister\bin\Debug\netstandard2.0\ref\EmployeeRegister.dll
+C:\Users\Propietario\OneDrive\Escritorio\Empleados\EmployeeRegister\EmployeeRegister\EmployeeRegister\bin\Debug\netstandard2.0\EmployeeRegister.pdb
+C:\Users\Propietario\OneDrive\Escritorio\Empleados\EmployeeRegister\EmployeeRegister\EmployeeRegister\obj\Debug\netstandard2.0\EmployeeRegister.csproj.AssemblyReference.cache
+C:\Users\Propietario\OneDrive\Escritorio\Empleados\EmployeeRegister\EmployeeRegister\EmployeeRegister\obj\Debug\netstandard2.0\EmployeeRegister.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Propietario\OneDrive\Escritorio\Empleados\EmployeeRegister\EmployeeRegister\EmployeeRegister\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Propietario\OneDrive\Escritorio\Empleados\EmployeeRegister\EmployeeRegister\EmployeeRegister\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Propietario\OneDrive\Escritorio\Empleados\EmployeeRegister\EmployeeRegister\EmployeeRegister\obj\Debug\netstandard2.0\EmployeeRegister.AssemblyInfoInputs.cache
+C:\Users\Propietario\OneDrive\Escritorio\Empleados\EmployeeRegister\EmployeeRegister\EmployeeRegister\obj\Debug\netstandard2.0\EmployeeRegister.AssemblyInfo.cs
+C:\Users\Propietario\OneDrive\Escritorio\Empleados\EmployeeRegister\EmployeeRegister\EmployeeRegister\obj\Debug\netstandard2.0\EmployeeRegister.csproj.CoreCompileInputs.cache
+C:\Users\Propietario\OneDrive\Escritorio\Empleados\EmployeeRegister\EmployeeRegister\EmployeeRegister\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Propietario\OneDrive\Escritorio\Empleados\EmployeeRegister\EmployeeRegister\EmployeeRegister\obj\Debug\netstandard2.0\EmployeeRegister.dll
+C:\Users\Propietario\OneDrive\Escritorio\Empleados\EmployeeRegister\EmployeeRegister\EmployeeRegister\obj\Debug\netstandard2.0\refint\EmployeeRegister.dll
+C:\Users\Propietario\OneDrive\Escritorio\Empleados\EmployeeRegister\EmployeeRegister\EmployeeRegister\obj\Debug\netstandard2.0\EmployeeRegister.pdb
